@@ -1,11 +1,16 @@
-## Sales Report :
+## Excel Analytics Report :
 
 
-- **Project objective:** 
+- **Project objective:**
 
-    **1.** Create a _[customer performance report](https://github.com/shahryarnafiz/Excel-Sales-Analytics/blob/main/Customer%20performance%20report.pdf)_
+   Provide key insights into AtliQ hardwares sales data and create a financial report with metrics ranging from customer performance to top & bottom 5 products sold using Excel tools such as pivot table, power query and data modelling.
 
-    **2.** Conduct a comprehensive comparison between https://github.com/shahryarnafiz/Excel-Sales-Analytics/blob/main/Market%20performance%20vs%20Target.pdf
+
+- **Key Insights:**
+
+    **1.** _[customer performance report](https://github.com/shahryarnafiz/Excel-Sales-Analytics/blob/main/Customer%20performance%20report.pdf)_: lists the customer-wise sales from 2019 to 2021 making up the core of the revenue stream.
+
+    **2.** _[market performance and sales targets](https://github.com/shahryarnafiz/Excel-Sales-Analytics/blob/main/Market%20performance%20vs%20Target.pdf)_: Insight on how the market performance stacks up against the targets.
 
 - **Purpose of sales analytics:** Empower businesses to monitor and evaluate their sales activities and performance.
 
