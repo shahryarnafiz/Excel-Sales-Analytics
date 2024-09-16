@@ -21,8 +21,8 @@
      **6.** [New products 2021](https://github.com/shahryarnafiz/Excel-Sales-Analytics/blob/main/new%20products%202021.pdf): Lists the new products that made an impact in 2021
 
      **7.** [P & L by fiscal year](https://github.com/shahryarnafiz/Excel-Sales-Analytics/blob/main/P%20%26%20L%20by%20fiscal_year.pdf)/
-            [P & L by fiscal months](https://github.com/shahryarnafiz/Excel-Sales-Analytics/blob/main/P%20%26%20L%20by%20fiscal_year.pdf)/
-            [P & L by markets](https://github.com/shahryarnafiz/Excel-Sales-Analytics/blob/main/P%20%26%20L%20by%20fiscal_year.pdf): Segmented analysis on the profit & loss statements for further insights.
+            [P & L by fiscal months](https://github.com/shahryarnafiz/Excel-Sales-Analytics/blob/main/P%20%26%20L%20by%20fiscal_months.pdf)/
+            [P & L by markets](https://github.com/shahryarnafiz/Excel-Sales-Analytics/blob/main/P%20%26%20L%20by%20markets.pdf): Segmented analysis on the profit & loss statements for further insights.
   
      **8.** [Top 5 countries-2021](https://github.com/shahryarnafiz/Excel-Sales-Analytics/blob/main/Top%205%20countries%20by%20net%20sales.pdf): Highlighting the top 5 countries by net sales in 2021
 
